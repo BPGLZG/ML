@@ -1,3 +1,5 @@
 # ML
-Este repositorio incluye el desarrollo de un proyecto de Machine Learning.
+Readme - provisional
+Descripción actualizada cuando se finalice el proyecto.
+
 Prueba_3
